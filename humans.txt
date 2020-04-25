@@ -3,6 +3,8 @@
 
 # TEAM
 
+	Git Team
+
     <name> -- <role> -- <twitter>
 
 # THANKS
