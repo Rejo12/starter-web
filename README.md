@@ -13,7 +13,7 @@ Don't clone this project.
 trying to merge two branches in git
 
 ## Rebase
-Rebasing in master v1.
+Rebasing in master.
 
 ### Copyright
 2020..Git
