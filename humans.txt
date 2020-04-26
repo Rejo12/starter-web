@@ -4,8 +4,7 @@
 # TEAM
 
 	Git Team
-
-    <name> -- Rebase changes master in github- <twitter>
+	Rebase changes master in github
 
 # THANKS
 
