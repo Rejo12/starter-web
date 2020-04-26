@@ -5,7 +5,7 @@
 
 	Git Team
 
-    <name> -- Rebase changes -- <twitter>
+    <name> -- Rebase changes master- <twitter>
 
 # THANKS
 
