@@ -16,7 +16,7 @@ trying to merge two branches in git
 Rebasing in master.
 
 ### Copyright
-2020..Git
+April Git
 
 
 ### Copyright
