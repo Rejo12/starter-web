@@ -10,7 +10,7 @@ main purpose of this project is to learn basic commands of git.
 Don't clone this project.
 
 ## Section 3
-trying to merge two branches in git
+trying to merge two branches in git and learing about git stash
 
 ## Rebase
 Rebasing in master.
